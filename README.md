@@ -35,3 +35,7 @@ To get started with the project locally, follow these steps:
    npm run dev
    ```
 7. Open http://localhost:3000 in your browser to view the project.
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](https://github.com/christiantochen/github-random-repo/blob/fe56c709e2a2fa0882126c40dff497ce4b8d01f8/LICENSE).
